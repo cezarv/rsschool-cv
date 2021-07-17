@@ -1,1 +1,1 @@
-# rsschool-cv
+https://cezarv.github.io/rsschool-cv/cv
