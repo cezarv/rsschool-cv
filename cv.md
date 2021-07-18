@@ -11,10 +11,10 @@ Goals and priorities:
 
 ---
 
-I am willing and able to learn and learn new things quickly.\
+I am willing and able to learn and understand new stuff quickly.
 
 ---
 
-Have good understanding of HTML, CSS and Javascript, GIT.\  
-Successful education in Germany and Ukraine.\  
+Possess good understanding of HTML, CSS and some Javascript, GIT. 
+Successful education in Germany and Ukraine.  
 Have high level of English.
