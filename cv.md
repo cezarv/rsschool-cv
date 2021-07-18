@@ -1,8 +1,6 @@
 ## Volodymyr Tsisar
 
 ---
-
-!(me-copy.png)\
 **volodymyr.tsisar@gmail.com**
 
 ---
