@@ -1,6 +1,6 @@
 ## Volodymyr Tsisar
 ---
-![Volodymyr](./GitHub/me-copy.png)\
+!(me-copy.png)\
 **volodymyr.tsisar@gmail.com**
 
 ---
