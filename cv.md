@@ -1,5 +1,5 @@
 ## Volodymyr Tsisar
-![Volodymyr](Github/me-copy.png)
+![Volodymyr](GitHub/me-copy.png)
 **volodymyr.tsisar@gmail.com**
 
 ---
