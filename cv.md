@@ -1,6 +1,7 @@
 ## Volodymyr Tsisar
 
 ---
+
 **volodymyr.tsisar@gmail.com**
 
 ---
@@ -8,7 +9,8 @@
 Goals and priorities:
 
 - get profession of Javascript developer
-- learning hard
+- ready to learn hard
+- be able to produce quick result
 
 ---
 
