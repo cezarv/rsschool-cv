@@ -1,6 +1,8 @@
 ## Volodymyr Tsisar
+
 ---
-!(images/me-copy.png)\
+
+!(me-copy.png)\
 **volodymyr.tsisar@gmail.com**
 
 ---
@@ -16,6 +18,6 @@ I am willing and able to learn and understand new stuff quickly.
 
 ---
 
-Possess good understanding of HTML, CSS and some Javascript, GIT. 
+Possess good understanding of HTML, CSS and some Javascript, GIT.
 Successful education in Germany and Ukraine.  
 Have high level of English.
