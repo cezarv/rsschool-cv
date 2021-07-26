@@ -1,0 +1,55 @@
+Box sizing rules *,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Remove default margin */
+body,
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+/* Set body defaults */
+body {
+  line-height: 1.5;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 400;
+  font-size: 1.7rem;
+  color: #222;
+}
+
+.page-title {
+  font-size: 2rem;
+}
+
+.section-title {
+  font-size: 1rem;
+  text-transform: uppercase;
+  margin-bottom: -3.2rem;
+}
+
+/* Make images easier to work with */
+img,
+picture {
+  max-width: 100%;
+  display: inline-block;
+}
+
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+.container {
+  padding: 0 2em;
+  max-width: 78rem;
+  margin: 0 auto;
+}
